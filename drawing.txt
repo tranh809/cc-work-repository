@@ -1,0 +1,5 @@
+Draw a square
+Draw a triangle on top of the square
+Draw a small square in each top two corners of the larger square
+Add a small vertical rectangle in the bottom center of the large square 
+Color the small squares with pencil
