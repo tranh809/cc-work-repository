@@ -1,7 +1,8 @@
-Make your canvas in the dimension of 500 x 500
-Make your bacground color green
-Make a triangle in the form of triangle(100,100,250,50,400,100)
-Make a rectangle in the form of rect(100,100,300,350)
-Make another rectangle in the form of rect(200,300,100,150)
-Make an ellipse in the form of ellipse(150,200,100,100)
-Make another ellipse in the form of ellipse(350,200,100,100)
+size (500 x 500);
+background(0,255,0); 
+triangle(100,100,250,50,400,100)
+rect(100,100,300,350)
+rect(200,300,100,150)
+ellipse(150,200,100,100)
+ellipse(350,200,100,100)
+
