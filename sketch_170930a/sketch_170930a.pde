@@ -71,6 +71,7 @@ void keyPressed(){
 void keyReleased(){
   if(key=='1'){
     show0 = false;
+    println ("new image");
   }
   if(key=='2'){
     show1 = false;
