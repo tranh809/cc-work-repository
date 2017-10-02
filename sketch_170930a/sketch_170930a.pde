@@ -31,7 +31,7 @@ void draw() {
     if(t1>0){
       t1-=1;
     }
-    tint(255,t1);
+    tint(0,100,200,t1);
     image(p2,0,0);
   }
   if(show1){
@@ -45,7 +45,7 @@ void draw() {
     if(t2>0){
       t2-=1;
     }
-    tint(255,t2);
+    tint(10,160,150,t2);
     image(p3,0,0);
   }
   if(show2){
